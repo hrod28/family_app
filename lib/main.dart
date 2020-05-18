@@ -10,8 +10,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'family_app',
-      debugShowCheckedModBanner: false,
-      home: Home(),
+      debugShowCheckedModeBanner: false,
+      home: Text("hello world"),
     );
   }
 }
