@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 class Comments extends StatefulWidget {
   @override
-  CommentState createState() => CommentsState();
+  CommentsState createState() => CommentsState();
 }
 
 class CommentsState extends State<Comments> {

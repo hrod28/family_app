@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
-class TimeLine extends StatefulWidget {
+class Timeline extends StatefulWidget {
   @override
-  _TimelineState createState() => _TimelineState();
+  _Timeline createState() => _TimelineState();
 }
 
-class _TimelineState extends State<Timeline> {
+class _Timeline extends State<_Timeline> {
   @override
-  Widget build(BuildContext context) {
+  Widget build(context) {
     return Text("Timeline");
   }
 }
